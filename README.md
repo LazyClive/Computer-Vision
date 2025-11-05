@@ -1,6 +1,7 @@
 This project will designing, building, testing and critiquing a system for Performing face alignment and CNN will used to landmarks and find mouth, nose in the test image.   Introduction
 
 There have few steps to build up this system. 
+
 Step 1 : Convert the image to grayscale, the single channel will more easily to training. 
 
 Step 2 : Save the training data (training image.npz) with csv , the image part will be the  
