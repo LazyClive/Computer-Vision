@@ -2,11 +2,16 @@ This project will designing, building, testing and critiquing a system for Perfo
 
 There have few steps to build up this system. 
 Step 1 : Convert the image to grayscale, the single channel will more easily to training. 
+
 Step 2 : Save the training data (training image.npz) with csv , the image part will be the  
 training images and the keypoint part will be the label. 
+
 Step 3 : Build up a CNN with five layers to make the prediction more accurately. 
+
 Step 4 : Build a model and training data for better accuracy rate. 
+
 Step 5: Prediction the test image and save the data with csv. 
+
 Step 6: Find the mouth, nose coordinates and change it’s color.
 
 ![image](https://github.com/user-attachments/assets/59c70926-3b12-4d16-8ffc-0a17d436b9dc)
